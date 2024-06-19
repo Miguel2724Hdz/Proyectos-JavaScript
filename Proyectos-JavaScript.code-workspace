@@ -1,0 +1,175 @@
+{
+	"folders": [
+		{
+			"path": "../Proyectos-JavaScript"
+		},
+		{
+			"path": "../01-Introduccion"
+		},
+		{
+			"path": "../02-Variables"
+		},
+		{
+			"path": "../03-Strings"
+		},
+		{
+			"path": "../04-Numeros"
+		},
+		{
+			"path": "../05-Operadores"
+		},
+		{
+			"path": "../06-Booleans"
+		},
+		{
+			"path": "../07-Objetos"
+		},
+		{
+			"path": "../08-Arrays"
+		},
+		{
+			"path": "../09-Funciones"
+		},
+		{
+			"path": "../10-Estructuras"
+		},
+		{
+			"path": "../11-Iteradores"
+		},
+		{
+			"path": "../12-ArrayMethods"
+		},
+		{
+			"path": "../13-DOM"
+		},
+		{
+			"path": "../14-Eventos"
+		},
+		{
+			"path": "../15-PROYECTO-Carrito"
+		},
+		{
+			"path": "../16-PROYECTO-EnviarEmail"
+		},
+		{
+			"path": "../17-PROYECTO-Buscador"
+		},
+		{
+			"path": "../18-LocalStorage"
+		},
+		{
+			"path": "../19-PROYECTO-LocalStorage"
+		},
+		{
+			"path": "../20-PROYECTO-Carrito-LS"
+		},
+		{
+			"path": "../21-Fechas"
+		},
+		{
+			"path": "../22-Prototypes"
+		},
+		{
+			"path": "../23-PROYECTO-Prototypes-Seguro"
+		},
+		{
+			"path": "../24-POO"
+		},
+		{
+			"path": "../25-PROYECTO-GastoSemanal"
+		},
+		{
+			"path": "../26-PROYECTO-AdministrarCitas"
+		},
+		{
+			"path": "../27-SetsMapsSymbols"
+		},
+		{
+			"path": "../28-Modulos"
+		},
+		{
+			"path": "../29-PROYECTO-CitasModulos"
+		},
+		{
+			"path": "../30-IndexedDB"
+		},
+		{
+			"path": "../31-PROYECTO-IndexedDB"
+		},
+		{
+			"path": "../32-PROYECTO-CRMIndexedDB"
+		},
+		{
+			"path": "../33-Promises"
+		},
+		{
+			"path": "../34-APIs-JS"
+		},
+		{
+			"path": "../35-FetchAPI"
+		},
+		{
+			"path": "../36-PROYECTO-Clima"
+		},
+		{
+			"path": "../37-PROYECTO-BuscadorRecetas"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../39-PROYECTO-Criptomonedas"
+		},
+		{
+			"path": "../40-PROYECTO-Calculadora de Propinas con JSON-Server"
+		},
+		{
+			"path": "../41-AsyncAwait"
+		},
+		{
+			"path": "../42-PROYECTO-AsyncAwait-Pixabay"
+		},
+		{
+			"path": "../43-PROYECTO-AsyncAwait-Criptomonedas"
+		},
+		{
+			"path": "../44-PROYECTO-CRM-CRUD-REST"
+		},
+		{
+			"path": "../45-FunctionalJS"
+		},
+		{
+			"path": "../46-DominandoJavaScript"
+		},
+		{
+			"path": "../47-ServiceWorkers-PWA"
+		},
+		{
+			"path": "../48-DesignPatterns"
+		},
+		{
+			"path": "../49-Seguridad-Performance-Debug"
+		},
+		{
+			"path": "../50-Testing-JS"
+		},
+		{
+			"path": "../51-Testing-Jest"
+		},
+		{
+			"path": "../52-Testing-Cypress"
+		},
+		{
+			"path": "../53-Webpack-ESLint"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../node_modules"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "38-PROYECTO-PixabayImagenes"
+	}
+}
